@@ -1,19 +1,25 @@
-<h1 align="left" style="border-bottom: none;">
-  Hi! I'm <code>&lt;/Julen&gt;</code>
-</h1>
-
-<p align="left">
-  I'm a <strong>15-year-old student</strong> passionate about programming. I share here my learning progress and personal projects as I keep improving my skills.
-</p>
-
-<br>
-
-<img 
-  src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" 
-  alt="illustration" 
-  width="250px" 
-  align="right" 
-/>
+<table>
+  <tr>
+    <td valign="top">
+      <h1 align="left" style="border-bottom: none;">
+        Hi! I'm <code>&lt;/Julen&gt;</code>
+      </h1>
+      <p align="left">
+        I'm a <strong>15-year-old student</strong> passionate about software development and technology. I enjoy exploring new tools, solving logical problems, and turning ideas into functional code.
+      </p>
+      <p align="left">
+        Right now, I am focusing on building a solid foundation in programming, continuously learning Python, and working on small personal projects to sharpen my skills day by day.
+      </p>
+    </td>
+    <td valign="top" width="250px">
+      <img 
+        src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" 
+        alt="illustration" 
+        width="250px" 
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   🛠️ <strong>Languages I use:</strong>
