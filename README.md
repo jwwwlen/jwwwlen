@@ -5,7 +5,7 @@
   align="right" 
 />
 
-<p align="left" style="font-size: 32px; font-weight: bold;">
+<p align="left" style="font-size: 54px; font-weight: bold; margin-bottom: 10px;">
   Hi! I'm <code>&lt;/Julen&gt;</code>
 </p>
 
