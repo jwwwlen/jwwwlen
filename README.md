@@ -1,5 +1,5 @@
 <img 
-  src="https://github.com/user-attachments/assets/68dcf8d3-06e1-4afc-8a9a-c0a36a69a2cd" 
+  src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" 
   alt="illustration" 
   min-width="400px" 
   max-width="400px" 
@@ -10,68 +10,32 @@
 <h1 align="left">Hi! I'm <code>&lt;/Julen&gt;</code></h1>
 
 <p align="left">
-  I'm a <strong>15-year-old student</strong> passionate about <strong>web and mobile app development</strong>. I enjoy combining creativity and technology, and I share here my learning progress, academic, and personal projects as I keep improving my skills. My goal is to become a professional developer in the future.
+  I'm a <strong>15-year-old student</strong> passionate about programming. I share here my learning progress and personal projects as I keep improving my skills.
 </p>
 
 <p align="left">
-  🛠️ <strong>Technologies I'm learning and working with:</strong>
-</p>
-
-<p align="left">
-  <img 
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
-    alt="HTML5" 
-  />
-  <img 
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
-    alt="CSS3" 
-  />
-  <img 
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
-    alt="JavaScript" 
-  />
-  <img 
-    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
-    alt="PHP" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" 
-    alt="Java" 
-  />
-  <img 
-    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" 
-    alt="MySQL" 
-  />
-  <img 
-    src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" 
-    alt="PostgreSQL" 
-  />
-  <img 
-    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" 
-    alt="Flutter" 
-  />
-  <img 
-    src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" 
-    alt="MongoDB" 
-  />
-</p>
-
-<p align="left">
-  💼 <strong>Tools:</strong>
+  🛠️ <strong>Languages I use:</strong>
 </p>
 
 <p align="left">
   <img 
-    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
-    alt="Figma" 
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
+    alt="Python" 
   />
-  <img 
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" 
-    alt="Git" 
-  />
+</p>
+
+<p align="left">
+  💼 <strong>Tools and Apps:</strong>
+</p>
+
+<p align="left">
   <img 
     src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" 
     alt="VS Code" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
+    alt="Discord" 
   />
 </p>
 
@@ -99,5 +63,11 @@
 </p>
 
 <p align="left">
-  <a href="jwwwlen@gmail.com.
+  <a href="mailto:tuemail@ejemplo.com">
+    <img 
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email" 
+    />
+  </a>
+</p>
 
