@@ -5,9 +5,9 @@
   align="right" 
 />
 
-<p align="left" style="font-size: 54px; font-weight: bold; margin-bottom: 10px;">
+<h1 align="left" style="border-bottom: none;">
   Hi! I'm <code>&lt;/Julen&gt;</code>
-</p>
+</h1>
 
 <p align="left">
   I'm a <strong>15-year-old student</strong> passionate about programming. I share here my learning progress and personal projects as I keep improving my skills.
