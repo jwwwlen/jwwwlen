@@ -6,11 +6,13 @@
   I'm a <strong>15-year-old student</strong> passionate about programming. I share here my learning progress and personal projects as I keep improving my skills.
 </p>
 
+<br>
+
 <img 
   src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" 
   alt="illustration" 
-  width="230px" 
-  style="float: right; margin-top: 50px; margin-left: 20px;" 
+  width="250px" 
+  align="right" 
 />
 
 <p align="left">
