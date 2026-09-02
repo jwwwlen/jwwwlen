@@ -1,16 +1,15 @@
-<img 
-  src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" 
-  alt="illustration" 
-  min-width="400px" 
-  max-width="400px" 
-  width="400px" 
-  align="right" 
-/>
-
 <h1 align="left">Hi! I'm <code>&lt;/Julen&gt;</code></h1>
 
 <p align="left">
   I'm a <strong>15-year-old student</strong> passionate about programming. I share here my learning progress and personal projects as I keep improving my skills.
+</p>
+
+<p align="left">
+  <img 
+    src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" 
+    alt="illustration" 
+    width="300px" 
+  />
 </p>
 
 <p align="left">
@@ -56,18 +55,5 @@
     src="https://img.shields.io/badge/Catalan-Native-yellow?style=for-the-badge" 
     alt="Catalan" 
   />
-</p>
-
-<p align="left">
-  💌 Feel free to reach out: ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:tuemail@ejemplo.com">
-    <img 
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Email" 
-    />
-  </a>
 </p>
 
