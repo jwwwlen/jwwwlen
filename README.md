@@ -1,6 +1,6 @@
 <div align="center">
   <!-- WELCOME BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20[Your%20Name]!👋&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20[Julen]!👋&fontSize=40&animation=fadeIn" width="100%" />
 
   <!-- SHORT DESCRIPTION -->
   <h3>🌱 Student & Tech Enthusiast | 15 years old</h3>
