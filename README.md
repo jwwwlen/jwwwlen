@@ -5,8 +5,8 @@
   align="right" 
 />
 
-<p align="left" style="font-size: 32px; font-weight: bold;">
-  ## Hi! I'm <code>&lt;/Julen&gt;</code>
+<p align="left" style="font-size: 42px; font-weight: bold; margin-bottom: 10px;">
+  Hi! I'm <code>&lt;/Julen&gt;</code>
 </p>
 
 <p align="left">
@@ -26,6 +26,36 @@
 
 <p align="left">
   💼 <strong>Tools and Apps:</strong>
+</p>
+
+<p align="left">
+  <img 
+    src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" 
+    alt="VS Code" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
+    alt="Discord" 
+  />
+</p>
+
+<p align="left">
+  🌍 <strong>Languages I speak:</strong>
+</p>
+
+<p align="left">
+  <img 
+    src="https://img.shields.io/badge/English-Basic-blue?style=for-the-badge" 
+    alt="English" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" 
+    alt="Spanish" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Catalan-Native-yellow?style=for-the-badge" 
+    alt="Catalan" 
+  />
 </p>
 
 <p align="left">
