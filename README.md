@@ -1,10 +1,3 @@
-<img 
-  src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" 
-  alt="illustration" 
-  width="250px" 
-  align="right" 
-/>
-
 <h1 align="left" style="border-bottom: none;">
   Hi! I'm <code>&lt;/Julen&gt;</code>
 </h1>
@@ -12,6 +5,13 @@
 <p align="left">
   I'm a <strong>15-year-old student</strong> passionate about programming. I share here my learning progress and personal projects as I keep improving my skills.
 </p>
+
+<img 
+  src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" 
+  alt="illustration" 
+  width="230px" 
+  style="float: right; margin-top: 50px; margin-left: 20px;" 
+/>
 
 <p align="left">
   🛠️ <strong>Languages I use:</strong>
