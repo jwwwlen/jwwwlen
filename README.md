@@ -1,15 +1,16 @@
-<h1 align="left">Hi! I'm <code>&lt;/Julen&gt;</code></h1>
+<img 
+  src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" 
+  alt="illustration" 
+  width="250px" 
+  align="right" 
+/>
 
-<p align="left">
-  I'm a <strong>15-year-old student</strong> passionate about programming. I share here my learning progress and personal projects as I keep improving my skills.
+<p align="left" style="font-size: 32px; font-weight: bold;">
+  Hi! I'm <code>&lt;/Julen&gt;</code>
 </p>
 
 <p align="left">
-  <img 
-    src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" 
-    alt="illustration" 
-    width="300px" 
-  />
+  I'm a <strong>15-year-old student</strong> passionate about programming. I share here my learning progress and personal projects as I keep improving my skills.
 </p>
 
 <p align="left">
